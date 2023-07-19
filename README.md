@@ -1,2 +1,2 @@
 # Faiths_Analytics
-Analytics projects
+My current data engineering portfolio. Includes several projects.
